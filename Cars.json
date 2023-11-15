@@ -1,0 +1,104 @@
+{
+  "result": [
+    {
+      "id": 1,
+      "no": 1,
+      "name": "Lamborghini Aventador",
+      "release_date": "2011-02-28",
+      "country": "Italy",
+      "cost": "$2.8 Juta USD",
+      "top_speed": "221 MPH",
+      "Poster": "https://imgx.gridoto.com/crop/127x0:1438x911/750x500/photo/2022/03/18/mansory-carbonado-lamborghini-av-20220318080743.jpg"
+    },
+    {
+      "id": 2,
+      "no": 2,
+      "name": "Koenigsegg Agera CCXR",
+      "release_date": "2005-01-06",
+      "country": "Swedia",
+      "cost": "$4.1 Juta USD",
+      "top_speed": "245 MPH",
+      "Poster": "https://cdn.carbuzz.com/car-thumbnails/700x375/4000/500/4526.jpg"
+    },
+    {
+      "id": 3,
+      "no": 3,
+      "name": "Buggati Chiron",
+      "release_date": "2016-03-01",
+      "country": "Italy",
+      "cost": "$2.9 Juta USD",
+      "top_speed": "236 MPH",
+      "Poster": "https://otoblitz.net/wp-content/uploads/2020/03/Bugatti-Chiron-Pur-Sport-01.jpg"
+    },
+    {
+      "id": 4,
+      "no": 4,
+      "name": "Lyken Hypersport",
+      "release_date": "2013-07-28",
+      "country": "Arab Saudi",
+      "cost": "$3.69 Juta",
+      "top_speed": "245 MPH",
+      "Poster": "https://imgcdn.solopos.com/@space/_large/2015/04/wm_homepage_slide_01-800x533.jpg"
+    },
+    {
+      "id": 5,
+      "no": 5,
+      "name": "Ford Mustang Shelby",
+      "release_date": "1965-01-27",
+      "country": "Amerika Serikat",
+      "cost": "$102,145 USD",
+      "top_speed": "259 MPH",
+      "Poster": "https://cdn.motor1.com/images/mgl/9mZpXv/s1/2020-2022-ford-mustang-shelby-gt500kr.jpg"
+    },
+     {
+      "id": 6,
+      "no": 6,
+      "name": "Ferrari SF90",
+      "release_date": "2019-03-20",
+      "country": "Italy",
+      "cost": "$5.558 USD",
+      "top_speed": "211 MPH",
+      "Poster": "https://cdn.motor1.com/images/mgl/qkk7zv/s1/novitec-ferrari-sf90-stradale-2022.jpg"
+    },
+    {
+      "id": 7,
+      "no": 7,
+      "name": "Dodge Viper SRT 10",
+      "release_date": "2019-03-20",
+      "country": "Amerika Serikat",
+      "cost": "$119,999 USD",
+      "top_speed": "202 MPH",
+      "Poster": "https://www.supercars.net/blog/wp-content/uploads/2016/04/2008_Dodge_ViperSRT10ACR1.jpg"
+    },
+    {
+      "id": 8,
+      "no": 8,
+      "name": "Mclaren P1",
+      "release_date": "2014-05-20",
+      "country": "Inggris",
+      "cost": "$2 Juta USD",
+      "top_speed": "217 MPH",
+      "Poster": "https://cdn.motor1.com/images/mgl/7nX6V/s1/elado-az-elso-legyartott-mclaren-p1.jpg"
+    },
+    {
+      "id": 9,
+      "no": 9,
+      "name": "Mercedes AMG GT",
+      "release_date": "2024-06-01",
+      "country": "Inggris",
+      "cost": "$3.4 Juta USD",
+      "top_speed": "198 MPH",
+      "Poster": "https://cdn.antaranews.com/cache/1200x800/2020/07/30/mercedes-amg-gt-2020-2.jpg"
+    },
+    {
+      "id": 10,
+      "no": 10,
+      "name": "Aston Martin Vanquish",
+      "release_date": "2007-07-06",
+      "country": "Inggris",
+      "cost": "$417,890  USD",
+      "top_speed": "183 MPH",
+      "Poster": "https://carnetwork.s3.ap-southeast-1.amazonaws.com/file/393a3f14211443888eacde694128991c.jpg"
+    }    
+  ]
+}
